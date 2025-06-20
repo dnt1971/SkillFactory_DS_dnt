@@ -36,7 +36,7 @@
 
 ### Этапы работы над проектом  
 1. Анализ постановки задачи
-2. Анализ типовых алгоритмов, реализованнного в [подходах 1 и 2](https://colab.research.google.com/drive/1TTiFm2_BiDRyk7h9ImEMyUv2mmVQ719n?usp=sharing) (файлы ![game.ру](./game.py) и ![game_v2.ру](./game_v2.py))
+2. Анализ типовых алгоритмов, реализованных в [подходах 1 и 2](https://colab.research.google.com/drive/1TTiFm2_BiDRyk7h9ImEMyUv2mmVQ719n?usp=sharing) (файлы ![game.ру](./game.py) и ![game_v2.ру](./game_v2.py))
 3. Разработка оптимизированного алгоритма, реализованнного в функции random_predict (файл ![game_v3.ру](./game_v3.py))
 4. Сравнительное испытание типового и оптимизированного алгоритмов
 5. Создание [протокола работы](https://drive.google.com/file/d/1QANpNdvDrkJx5JgQO3bK76kJKhisJVSg/view?usp=drive_link) оптимизированного алгоритма 
@@ -48,7 +48,7 @@
 
 ### Результаты:  
 Приведены [2 варианта решения задачи](https://colab.research.google.com/drive/1TTiFm2_BiDRyk7h9ImEMyUv2mmVQ719n?usp=sharing). 
-![Типовой алгоритм](./Оптимизированный%20алгоритм.png)
+![Типовой алгоритм](./Типовой%20алгоритм.png)
 ![Оптимизированный алгоритм](./Оптимизированный%20алгоритм.png), 5 тысяч строк протокола исполнения приведены в [этом файле](https://drive.google.com/file/d/1QANpNdvDrkJx5JgQO3bK76kJKhisJVSg/view?usp=drive_link). 
  По результатам статистических испытаний алгоритмов видно, что 3 вариант лучший.
 
